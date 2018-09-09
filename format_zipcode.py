@@ -1,7 +1,7 @@
 def format_zipcode(zip_code):
     """
-    Function to return zip code in based on lenghth
-    :param str zip_code: zip code to be returned
+    Function to format zip code based on length
+    :param str zip_code: zip code
     :return: result of function
     :rtype: str
     """
